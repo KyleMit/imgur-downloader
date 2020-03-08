@@ -1,0 +1,25 @@
+{
+    "name": "imgur-downloader",
+    "version": "1.0.0",
+    "description": "CLI",
+    "main": "index.js",
+    "bin": {
+        "downloadur": "index.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "homepage": "https://github.com/KyleMit/imgur-downloader",
+    "keywords": [
+        "cli",
+        "npx",
+        "imgur",
+        "download"
+    ],
+    "author": "KyleMit",
+    "license": "ISC",
+    "dependencies": {
+        "arg": "^4.1.1",
+        "inquirer": "^7.0.0"
+    }
+}
