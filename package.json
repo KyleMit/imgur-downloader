@@ -6,10 +6,17 @@
     "bin": {
         "downloadur": "index.js"
     },
+    "scripts": {
+        "downloadur": "index.js"
+    },
     "files": [
         "index.js"
     ],
     "homepage": "https://github.com/KyleMit/imgur-downloader",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KyleMit/imgur-downloader.git"
+    },
     "keywords": [
         "cli",
         "npx",

@@ -11,6 +11,7 @@ npm i -g imgur-downloader
 ## Usage
 
 ```bash
+downloader
 imgur-downloader
 ```
 
